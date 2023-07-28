@@ -24,4 +24,10 @@
   .formButton {
     width: 100px;
     height: 24px;
+    cursor: pointer;
+    border-radius: 5px;
   }
+
+  .formButton:hover {
+    background-color: turquoise
+}

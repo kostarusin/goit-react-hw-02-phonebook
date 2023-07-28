@@ -1,12 +1,12 @@
 .label {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    font-size: medium;
-    font-weight: 500;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: medium;
+  font-weight: 500;
 }
 
 .input {
-    max-width: 240px;
-    height: 24px;
+  max-width: 240px;
+  height: 24px;
 }
